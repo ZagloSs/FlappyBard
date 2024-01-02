@@ -1,3 +1,3 @@
 # FlappyBard
 
-Just a Flappy Bird coppy somehow
+Just a Flappy Bird copy somehow
